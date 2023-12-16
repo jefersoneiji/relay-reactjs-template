@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "meta.relay",
+        "ms-vscode-remote.remote-containers"
+    ]
+}

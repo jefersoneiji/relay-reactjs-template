@@ -1,3 +1,12 @@
+<div align="center">
+  <img 
+    src="https://github.com/jefersoneiji/relay-reactjs-template/assets/44307139/3bf05ea3-4d14-4ff6-ac67-ea2722c54eed"
+    alt="relay image"
+    height="250"
+    width="250"
+  />
+</div>
+
 <h1 align="center">
   Relay ReactJS Template
 </h1>

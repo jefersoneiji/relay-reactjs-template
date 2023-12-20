@@ -1,6 +1,10 @@
-## Relay ReactJS Template
+<h1 align="center">
+  Relay ReactJS Template
+</h1>
 
-This template is meant to be used in front-end development. 
+<p align="center">
+    This template is meant to be used in front-end development. 
+</p>
 
 ## Prerequisites
 
@@ -29,7 +33,7 @@ yarn relay
 yarn start
 ```
 
-### Docker
+## Docker
 
 1. To build the image type
 ```cmd
